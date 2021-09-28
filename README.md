@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wafika Samsea
-- 👀 I’m interested in Everystuff related to tech
-- 🌱 I’m currently learning Data Science and Web Development
-- 💞️ I’m looking to collaborate on Anyproject related to data analysis
+
+- 🌱 I’m currently learning Data Alanysis
+
 - 📫 Reach me through https://www.linkedin.com/in/wafikasamsea/
 
 <!---
