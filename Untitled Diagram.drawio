@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-07T18:51:46.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="oGdmCMAzt09_yHNeiU9W" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-07T18:57:05.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="NKAHdqlibLZE1KvTDfPa" version="15.4.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="950" dy="1575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -39,6 +39,15 @@
         </mxCell>
         <mxCell id="63pF7FMhLm37YgxQ2jse-13" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="300" y="-20" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="63pF7FMhLm37YgxQ2jse-19" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Team Player&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="187.5" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="63pF7FMhLm37YgxQ2jse-20" value="Stadium" style="swimlane;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="360" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="63pF7FMhLm37YgxQ2jse-21" value="&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;121&quot; style=&quot;font-size: 12px ; text-align: left ; border-collapse: collapse ; width: 91pt&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 15.75pt&quot;&gt;&lt;td height=&quot;21&quot; class=&quot;xl63&quot; style=&quot;height: 15.75pt&quot;&gt;&lt;span lang=&quot;EN-GB&quot; style=&quot;line-height: 18px&quot;&gt;Name&lt;br&gt;Address&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 15.75pt&quot;&gt;&lt;td height=&quot;21&quot; class=&quot;xl63&quot; style=&quot;height: 15.75pt&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;span lang=&quot;EN-GB&quot; style=&quot;line-height: 18px&quot;&gt;Street&lt;br&gt;&lt;/span&gt;&lt;span lang=&quot;EN-GB&quot; style=&quot;line-height: 18px&quot;&gt;City&lt;/span&gt;&lt;/blockquote&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 15.75pt&quot;&gt;&lt;td height=&quot;21&quot; class=&quot;xl63&quot; style=&quot;height: 15.75pt&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;span lang=&quot;EN-GB&quot; style=&quot;line-height: 18px&quot;&gt;PostalCode&lt;/span&gt;&lt;/blockquote&gt;&lt;span lang=&quot;EN-GB&quot; style=&quot;line-height: 18px&quot;&gt;SurfaceArea&lt;br&gt;BuildingAre&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 15.75pt&quot;&gt;&lt;td height=&quot;21&quot; class=&quot;xl64&quot; style=&quot;height: 15.75pt&quot;&gt;&lt;span lang=&quot;EN-GB&quot;&gt;TotalSeats&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="63pF7FMhLm37YgxQ2jse-20">
+          <mxGeometry y="20" width="140" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
