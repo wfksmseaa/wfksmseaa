@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Wafika Samsea
 
-- 🌱 I’m currently learning Data Alanysis
-
 - 📫 Reach me through https://www.linkedin.com/in/wafikasamsea/
 
 <!---
