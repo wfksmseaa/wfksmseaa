@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wafika Samsea
+- 👋 Hi, I’m Wafika Samsea. I'm from Kediri
 
 - 📫 Reach me through https://www.linkedin.com/in/wafikasamsea/
 
